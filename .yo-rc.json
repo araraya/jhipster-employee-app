@@ -22,7 +22,7 @@
     "entitySuffix": "",
     "jhiPrefix": "jhi",
     "jhipsterVersion": "7.9.4",
-    "jwtSecretKey": "YzRkZTAzZGU0OGU4MDc5ZGMwY2Y5N2RlOTdmZTIyODMwMWQ0YTg3YzcwNTgxNjA3MDcyNjJhMjBjZTA3YjYwMDU1MGU5MjMxYjA2N2UyNTM3OTQyODg2MmU4YjMxZjQxNjgwNTE0OTE1NmYyOGQ1ZGFkYzQxZDcxNjc5NzhkY2Q=",
+    "jwtSecretKey": "${jwt_secret}",
     "languages": ["en", "in"],
     "messageBroker": false,
     "microfrontend": false,
