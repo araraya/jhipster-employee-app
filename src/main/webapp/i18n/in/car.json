@@ -1,0 +1,26 @@
+{
+  "employeeApp": {
+    "car": {
+      "home": {
+        "title": "Cars",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Buat Car baru",
+        "createOrEditLabel": "Buat atau edit Car",
+        "notFound": "No Cars found"
+      },
+      "created": "Car dengan id {{ param }} telah dibuat",
+      "updated": "Car dengan id {{ param }} telah diperbaharui",
+      "deleted": "Car dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Car {{ id }}?"
+      },
+      "detail": {
+        "title": "Car"
+      },
+      "id": "ID",
+      "name": "Name",
+      "brand": "Brand",
+      "price": "Price"
+    }
+  }
+}

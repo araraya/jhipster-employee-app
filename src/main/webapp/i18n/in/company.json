@@ -1,0 +1,26 @@
+{
+  "employeeApp": {
+    "company": {
+      "home": {
+        "title": "Companies",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Buat Company baru",
+        "createOrEditLabel": "Buat atau edit Company",
+        "notFound": "No Companies found"
+      },
+      "created": "Company dengan id {{ param }} telah dibuat",
+      "updated": "Company dengan id {{ param }} telah diperbaharui",
+      "deleted": "Company dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Company {{ id }}?"
+      },
+      "detail": {
+        "title": "Company"
+      },
+      "id": "ID",
+      "name": "Name",
+      "address": "Address",
+      "phone": "Phone"
+    }
+  }
+}

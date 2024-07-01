@@ -1,0 +1,31 @@
+{
+  "employeeApp": {
+    "employee": {
+      "home": {
+        "title": "Employees",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Buat Employee baru",
+        "createOrEditLabel": "Buat atau edit Employee",
+        "notFound": "No Employees found"
+      },
+      "created": "Employee dengan id {{ param }} telah dibuat",
+      "updated": "Employee dengan id {{ param }} telah diperbaharui",
+      "deleted": "Employee dengan id {{ param }} telah dihapus",
+      "delete": {
+        "question": "Apakah anda yakin ingin menghapus Employee {{ id }}?"
+      },
+      "detail": {
+        "title": "Employee"
+      },
+      "id": "ID",
+      "name": "Name",
+      "gender": "Gender",
+      "birthLocation": "Birth Location",
+      "birthDate": "Birth Date",
+      "address": "Address",
+      "phone": "Phone",
+      "company": "Company",
+      "car": "Car"
+    }
+  }
+}
